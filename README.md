@@ -1,6 +1,5 @@
 # projet_POO
 
-
 → une/des classe(s) pour représenter différents types de personnes qui interviennent dans un des projets donnés dans le cadre d’une formation universitaire 
 etudiantM1 (on mémorisera numéro d’étudiant unique attribué automatiquement à la construction, nom, langages de programmation maîtrisés (au moins deux parmi cplusplus, javascript, php, python) ;
 etudiantM2 (on mémorisera numéro d’étudiant unique attribué automatiquement à la construction, nom, niveau d’expertise en gestion de projets (un entier compris entre 1 et 10) ;
@@ -46,5 +45,7 @@ Pour cette/ces classe(s), on doit avoir un constructeur permettant de fixer tout
 → une méthode verifierprojets qui vérifie que les projets d’une universite sont composés uniquement de personnes qui font partie de l’universite. Cette méthode retournera la liste des personnes impliquées dans au moins1 un projet et qui ne sont pas membres de l'université.
 explication (pourquoi ces choix ? ) :
 Le code proposé ici utilise au maximum des algorithmes de la bibliothèque standard. Cela ne veut pas dire que c'était la seule façon de faire, mais c'est sans doute la façon la plus courte de le faire, une fois qu'on les connaît. Le main proposé est d'un intérêt (très) limité, il a pour unique but de tester les méthodes , j’ai essayé d’avoir une bonne gestion de mémoire. en c++ je considére l’utilisation de const/& trés importante mais aussi l’utilisation du std::cout dans le main par exemple au lieu d’utiliser “using name space std”.
+
+                                    La méthode que j'ai choisie pour Résoudre le problém est pas la seule , c'est Une des maniéres de réfléchir
 
 Merci pour votre attention.
